@@ -1,0 +1,25 @@
+{
+  "name": "Fundación IKNAHL",
+  "short_name": "IKNAHL",
+  "description": "Apoyo, orientación y acompañamiento humanitario a personas migrantes y refugiadas en México",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A1F2F",
+  "theme_color": "#123047",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["nonprofit", "social", "humanitarian"]
+}
