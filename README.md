@@ -5,7 +5,7 @@
 Sitio web institucional de Fundación IKNAHL. Construido con HTML5, CSS3 y
 JavaScript Vanilla. Sin frameworks ni dependencias externas. Derivado de la
 misma arquitectura probada en el sitio de Puentes de Esperanza, con
-identidad visual, paleta de colores y contenido propios de IKNAHL.
+identidad visual, paleta de colores y contenido propios de IKNAHL..
 
 ---
 
